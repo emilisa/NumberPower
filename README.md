@@ -10,6 +10,7 @@ using System.Collections.Generic;
 class NumberPower
 
 {
+
     static void Main()
     
     {
