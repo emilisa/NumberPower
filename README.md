@@ -1,11 +1,14 @@
 NumberPower
 ===========
 
-For cycle that replaces Math.Pow() for any given number, aslo includes Timer.
+For cycle that replaces Math.Pow()
 
 using System;
+
 using System.Numerics;
+
 using System.Collections.Generic;
+
 
 class NumberPower
 
